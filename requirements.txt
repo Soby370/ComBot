@@ -1,0 +1,12 @@
+swibots
+playwright
+requests
+bs4
+apscheduler
+aiohttp
+akinator
+opencv-python-headless
+fuzzywuzzy
+pillow
+firebase-admin
+python-decouple
