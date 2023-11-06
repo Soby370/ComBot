@@ -21,8 +21,8 @@ async def sendStart(ctx: BotContext[CommandEvent]):
             thumbnail=None,
             title=Bot.user.name,
             header_name="HELP Menu",
-            description="Hi I can manage your communities and lot more!",
-            footer_icon="https://img.icons8.com/?size=256&id=6nsw3h9gk8M8&format=png",
+            description="Hi, Welcome to Web3family Assistant!",
+            footer_icon="https://cdn08.chiheisen.app/1001903060952/14557",
             footer_title="Thanks for using me!",
             header_icon="https://img.icons8.com/?size=256&id=1H52efUsDX7A&format=png",
             inline_fields=[
